@@ -27,4 +27,4 @@ Linear Gradient: Arka plan ve renk geçişleri için kullanıldı.
 
 <h2>Ekran Görüntüsü</h2>
 
-![](../amazon/src/assets/amazon.gif)
+![](src/assets/amazon.gif)
